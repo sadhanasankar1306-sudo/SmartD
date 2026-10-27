@@ -1,0 +1,9 @@
+{
+  "name": "Smart Driver Fatigue Prevention System",
+  "description": "AI-powered real-time driver fatigue monitoring system detecting eye closure (EAR), yawning (MAR), head nodding, and progressive multi-level alerts.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
